@@ -2,10 +2,6 @@
 Project: VirtualPetProgram
 Description: This program lets you interact with a virtual pet. In this program you can
 name, feed, groom, and play with your pet.
-Name: Kiel DeMarco
-ID: 917261896
-Class: CS_210
-Semester: Fall 2020
  */
 import java.util.Scanner;
 public class VirtualPetProgram {
