@@ -2,10 +2,6 @@
 Project: ScoreEvaluator
 Description: Evaluates the scores of each individual student to see if they passed or failed the course.
 It displays their name, their scores for each of there exams, their total score, adn whether they passed or failed.
-Name: Kiel DeMarco
-ID: 917261896
-Class: CS_210
-Semester: Fall 2020
  */
 
 public class ScoreEvaluator {
