@@ -3,7 +3,6 @@ Project: StoreProgram
 Description: This program tells you the inventory in your store. It tells you what you are low on the total value,
 of all your items put together, highest quantity item and lowest quantity item in your store.
 Name: Kiel DeMarco
-ID: 917261896
 Class: CS_210
 Semester: Fall 2020
  */
