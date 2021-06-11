@@ -2,10 +2,6 @@
 Project: DiceGame
 Description: This program is a gambling game where the person rolls a dice and a random number is generated.
 No real win or lose condition, and game ends when the player reaches a score of 0.
-Name: Kiel DeMarco
-ID: 917261896
-Class: CS_210
-Semester: Fall 2020
  */
 import java.util.Scanner;
 
